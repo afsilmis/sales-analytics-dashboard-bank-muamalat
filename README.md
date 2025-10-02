@@ -22,6 +22,10 @@ Comprehensive sales performance analysis and strategic recommendations for PT Se
 3. Interactive sales dashboard with 7+ key metrics
 4. Strategic business recommendations based on data insights
 
+## Project Links
+- **[View Interactive Dashboard](https://lookerstudio.google.com/s/gHZ_M7WsLKo)**
+- **[View Full Presentation](http://)**
+
 ## Key Insights
 - **High-Value Products:** Robots & Drones drive revenue (premium pricing strategy)
 - **Volume Leaders:** eBooks & Training Videos lead in transaction frequency
