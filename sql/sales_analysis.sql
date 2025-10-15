@@ -19,13 +19,14 @@ SELECT
 
 FROM orders o
 
-INNER JOIN customers c
+LEFT JOIN customers c
   ON o.CustomerID = c.CustomerID
 
-INNER JOIN products p
+LEFT JOIN products p
   ON o.ProdNumber = p.ProdNumber
 
-INNER JOIN productcategory pc
+LEFT JOIN productcategory pc
   ON p.Category = pc.CategoryID
+
 
 ORDER BY o.Date ASC;
